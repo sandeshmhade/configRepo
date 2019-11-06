@@ -13,4 +13,4 @@ management:
       exposure:
         include: "*"
 
-message: mymsgsandy1
+message: dept msg 1
